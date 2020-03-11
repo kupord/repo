@@ -1,0 +1,50 @@
+Package: app.cyan.jsbox.Jsbox
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/JSbox去共享去闪退去广告 支持最新版.deb
+Size: 34858
+MD5sum: 38c16dbc64690bd4fc062e228db821b9
+SHA1: ca1ec3d7c14755c8a5d05bdcfd4d61f98a1d9db0
+SHA256: ba2e0ad7df00cb07ef0ba00cd13f22fdf4a3ef99820fb6c6ff6bad0934ec1e0d
+Section: System
+Priority: optional
+Author: Ning Fu
+Name: Jsbox
+
+Package: com.cydiabc.semirestore11
+Version: 1.1.2-1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd
+Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3)
+Filename: ./debs/快照A12(1).deb
+Size: 54372
+MD5sum: 1aa6cebf53370d41ba5450624c557fe4
+SHA1: b2b3aa5eca63f1e3ab0d2feb4bcb884b188f5020
+SHA256: b53d8607030a93447302c6a539b95b081cb6a3793d40295d46d8c08e0bf71164
+Section: 系统
+Author: Pwn20wnd
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: Rollectra / SemiRestore11-12
+Sponsor: Pwn20wnd
+
+Package: kupord.CallAssist13
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
+Filename: ./debs/kupord.callassist13_1.0.8_iphoneos-arm.deb
+Size: 567344
+MD5sum: 3120a5f3af32e134e2105c2d08c2e4ea
+SHA1: 133e4425b47e8a158c4e441efc47fe3705732386
+SHA256: 6bafcddd2de15cdeba598d5e21001f36400f5828d1b48e62eb148b7d8ceb9155
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/update.html
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS13-正式完整版(兼容A12/A13)
+Sileodepiction: https://apt.htv123.com/update.html
+
