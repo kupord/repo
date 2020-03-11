@@ -1885,12 +1885,12 @@ Architecture: iphoneos-arm
 Maintainer: jjolano
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common (>= 1.13.1), applist, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
 Filename: ./debs/kupord.shadow_2.0.20_iphoneos-arm.deb
-Size: 141788
-MD5sum: 538c4c44f47428b1f8aac1be2d6b8f86
-SHA1: daadd3885c90fadb2a7d900d50f3756016b9dd68
-SHA256: e5879a936906f30b14fe58addab06c2210ef951455823465eaf8b09bcfef15b8
+Size: 141832
+MD5sum: 33d5677518f87ec828ad6f6778a80f65
+SHA1: cd3069c7cb25ec93b1fec135ec4a896d4807199e
+SHA256: 7d51b973f685f38092a56835e88893361717bc26d4d1f2f07ffc9e1199810c6c
 Section: Tweaks
-Description: 越狱屏蔽插件
+Description: 越狱屏蔽插件.
 Author: jjolano
 Depiction: https://kupord.github.io/web/description.html?id=Shadow
 Name: Shadow
